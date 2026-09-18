@@ -78,6 +78,16 @@ The exercises showed me that information gathering is an important part of cyber
 I also learned that technical findings should be documented clearly. A good cybersecurity report should explain what was performed, what was discovered, what the observation means, what risk it may create, and what can be done to reduce that risk.
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. These activities were completed as part of the assigned educational cybersecurity lab.
 ## Evidence Collected
+<img width="1920" height="1037" alt="whois network" src="https://github.com/user-attachments/assets/ba6c8319-1d8d-4501-9fb4-89aaa3ca94ba" />
+<img width="1920" height="1040" alt="whatweb" src="https://github.com/user-attachments/assets/f41af5bc-6cb9-4210-b0a8-cd7869e8e7d4" />
+<img width="1920" height="1037" alt="curl" src="https://github.com/user-attachments/assets/db02f8af-a485-45f2-9736-23f1df18bd61" />
+
+<img width="1917" height="1032" alt="wafwoof" src="https://github.com/user-attachments/assets/901461b0-2870-4853-a1d1-15e2c465fa46" />
+<img width="1920" height="1040" alt="nslookup" src="https://github.com/user-attachments/assets/09ef0d49-83fe-42fd-b8ce-1219ce912980" />
+<img width="1920" height="1038" alt="dns recon" src="https://github.com/user-attachments/assets/cffe23b8-7038-43c9-8415-52de19293794" />
+
+<img width="1920" height="1080" alt="ping scan " src="https://github.com/user-attachments/assets/8ebc80c2-41e1-4a04-bb46-00196c76a9e3" />
+<img width="1920" height="1080" alt="topology" src="https://github.com/user-attachments/assets/7fe95b82-1698-4f87-a191-38fc6f3f1495" />
 
 
 
